@@ -16,7 +16,8 @@ This application allows users to ask questions in plain English and receive secu
 * **Security:** SQL-Parser
 
 ## 📸 Screenshots / Demo
-![App Preview](link-to-your-screenshot-or-gif.png)
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/a8fb7160-e17a-43c2-9162-1da9daf7893c" />
+
 
 ## ⚙️ Local Setup
 1. Clone the repo: `git clone ...`
